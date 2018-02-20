@@ -1,24 +1,6 @@
-# README
+Taller CRUD 01
+Rutas Anidadas
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ejecutar rails db:seed antes de correr el servidor
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Modelos de Categorias y Poductos
